@@ -27,5 +27,5 @@ Para probar la funcionalidad de subida de archivos, sigue estos pasos:
 2. Configura una petición POST a la siguiente URL:
 http://localhost:3000/api/archivo
 3. En el cuerpo (body) de la petición, asegúrate de incluir:
-    Un campo para el nombre del archivo
-    El archivo que deseas subir
+    * Un campo para el nombre del archivo
+    * El archivo que deseas subir
