@@ -11,14 +11,14 @@ Este proyecto utiliza Multer para la gestión de subida de archivos en una aplic
 Sigue estos pasos para clonar y configurar el proyecto en tu máquina local:
 
 1. Clona el repositorio:
-    git clone https://github.com/PabloCastilloFer/Subida-de-archivo.git
+    * git clone https://github.com/PabloCastilloFer/Subida-de-archivo.git
 
 2. Navega al directorio del proyecto:
-    cd backend
+    * cd backend
 
 3. Instala las dependencias:
-    npm install
-    npm install multer
+    * npm install
+    * npm install multer
 
 # Ejecución
 Para probar la funcionalidad de subida de archivos, sigue estos pasos:
